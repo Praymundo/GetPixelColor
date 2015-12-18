@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPixelColor", "GetPixelColor\GetPixelColor.csproj", "{5686C756-85A3-4CF4-B3B2-FD44538836F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5686C756-85A3-4CF4-B3B2-FD44538836F2}.Debug|x86.ActiveCfg = Debug|x86
+		{5686C756-85A3-4CF4-B3B2-FD44538836F2}.Debug|x86.Build.0 = Debug|x86
+		{5686C756-85A3-4CF4-B3B2-FD44538836F2}.Release|x86.ActiveCfg = Release|x86
+		{5686C756-85A3-4CF4-B3B2-FD44538836F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
